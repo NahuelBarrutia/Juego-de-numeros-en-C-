@@ -1,0 +1,31 @@
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.fmrInicio.resources
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.fmrJuego.resources
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.fmrPartidas.resources
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.Properties.Resources.resources
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\bin\Debug\Nahuel_Barrutia.exe.config
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\bin\Debug\Nahuel_Barrutia.exe
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\bin\Debug\Nahuel_Barrutia.pdb
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\bin\Debug\MODELO.dll
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\bin\Debug\MODELO.pdb
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.csproj.CopyComplete
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.exe
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.pdb
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\bin\Debug\Nahuel_Barrutia.exe.config
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\bin\Debug\Nahuel_Barrutia.exe
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\bin\Debug\Nahuel_Barrutia.pdb
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\bin\Debug\MODELO.dll
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\bin\Debug\MODELO.pdb
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.csproj.AssemblyReference.cache
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.csproj.SuggestedBindingRedirects.cache
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.fmrInicio.resources
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.fmrJuego.resources
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.fmrPartidas.resources
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.Properties.Resources.resources
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.csproj.GenerateResource.cache
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.csproj.CoreCompileInputs.cache
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.csproj.CopyComplete
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.exe
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\Nahuel_Barrutia\obj\Debug\Nahuel_Barrutia.pdb

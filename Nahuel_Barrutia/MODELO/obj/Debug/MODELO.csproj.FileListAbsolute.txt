@@ -1,0 +1,36 @@
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL\CODIGO\COLUSSI_IGNACIO\MODELO\bin\Debug\MODELO.dll
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL\CODIGO\COLUSSI_IGNACIO\MODELO\bin\Debug\MODELO.pdb
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.dll
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.pdb
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL3\CODIGO\COLUSSI_IGNACIO\MODELO\bin\Debug\MODELO.dll
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL3\CODIGO\COLUSSI_IGNACIO\MODELO\bin\Debug\MODELO.pdb
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL3\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL3\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL3\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.dll
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL3\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.pdb
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL4\CODIGO\COLUSSI_IGNACIO\MODELO\bin\Debug\MODELO.dll
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL4\CODIGO\COLUSSI_IGNACIO\MODELO\bin\Debug\MODELO.pdb
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL4\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL4\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL4\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.dll
+D:\UAI\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Clases\POO\FINAL4\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.pdb
+C:\Users\PC\Desktop\COLUSSI_IGNACIO\CODIGO\COLUSSI_IGNACIO\MODELO\bin\Debug\MODELO.dll
+C:\Users\PC\Desktop\COLUSSI_IGNACIO\CODIGO\COLUSSI_IGNACIO\MODELO\bin\Debug\MODELO.pdb
+C:\Users\PC\Desktop\COLUSSI_IGNACIO\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\COLUSSI_IGNACIO\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COLUSSI_IGNACIO\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.dll
+C:\Users\PC\Desktop\COLUSSI_IGNACIO\CODIGO\COLUSSI_IGNACIO\MODELO\obj\Debug\MODELO.pdb
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\MODELO\bin\Debug\MODELO.dll
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\MODELO\bin\Debug\MODELO.pdb
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\MODELO\obj\Debug\MODELO.dll
+C:\Users\PC\Documents\Facultad\Segundo Año\Progracion Objetos\FinalObjetos\Nahuel_Barrutia\MODELO\obj\Debug\MODELO.pdb
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\MODELO\bin\Debug\MODELO.dll
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\MODELO\bin\Debug\MODELO.pdb
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\MODELO\obj\Debug\MODELO.dll
+C:\Users\nahue\OneDrive\Escritorio\C# portfolio\FinalObjetos\Nahuel_Barrutia\MODELO\obj\Debug\MODELO.pdb
